@@ -14,6 +14,6 @@
 
 ## TODO list
  - [ ] think about its actual purpose and functions
- - [ ] make basic app structure
+ - [x] make basic app structure
  - [ ] make twitter oauth app and authentication function
  - [ ] test twitter authentication
